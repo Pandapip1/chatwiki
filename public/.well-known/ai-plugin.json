@@ -9,10 +9,10 @@
     },
     "api": {
         "type": "openapi",
-        "url": "https://en.wikipedia.org/api/rest_v1/?spec",
+        "url": "https://chatwiki.pandapip1.com/api/rest_v1/openapi.yaml",
         "is_user_authenticated": false
     },
-    "logo_url": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
+    "logo_url": "https://chatwiki.pandapip1.com/favicon.ico",
     "contact_email": "gavinnjohn@gmail.com",
-    "legal_info_url": "https://meta.wikimedia.org/wiki/Terms_of_use"
+    "legal_info_url": "https://chatwiki.pandapip1.com/legal"
 }
