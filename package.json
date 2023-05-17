@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "type": "module",
   "description": "An OpenAI ChatGPT plugin to access Wikipedia articles.",
-  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
