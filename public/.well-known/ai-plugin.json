@@ -1,0 +1,18 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "Wikipedia Search",
+    "name_for_model": "wikipedia_search",
+    "description_for_human": "Plugin for searching Wikipedia articles.",
+    "description_for_model": "Plugin for searching Wikipedia articles.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "https://en.wikipedia.org/api/rest_v1/?spec",
+        "is_user_authenticated": false
+    },
+    "logo_url": "https://en.wikipedia.org/api/rest_v1/?spec",
+    "contact_email": "gavinnjohn@gmail.com",
+    "legal_info_url": "https://meta.wikimedia.org/wiki/Terms_of_use"
+}
